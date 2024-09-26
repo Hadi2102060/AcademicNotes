@@ -17,7 +17,7 @@ Accounting is the process of recording, organizing, and summarizing a business's
 **Attracts Investors**: Shows clear financial information to investors or lenders.<br>
 
 
-# What is trial balance ? why an organization prepared a trial balance ? in easy word and short?
+# What is trial balance ? why an organization prepared a trial balance ? 
 
 ## Answer: 
 
@@ -44,7 +44,7 @@ A trial balance is a list of all the accounts in a business, showing their balan
 **Statement of Changes in Equity**: Shows changes in the owner's equity or shareholders' equity over time, including investments and retained earnings.<br>
 
 
-# "share holders of a public limited company are external users  of Accounting information", Do you agree? why?   in easy word and short?
+# "share holders of a public limited company are external users  of Accounting information", Do you agree? why?  
 
 ## Answer: 
 Yes, I agree.
@@ -56,23 +56,27 @@ They are not involved in the day-to-day operations of the business.
 They need accounting information to make decisions about buying, holding, or selling shares.
 They use financial reports to check the company’s performance and financial health, but they don’t directly control the company’s finances.<br>
 
-# Discuss the limitation of trial balance ? in easy word and short?
+# Discuss the limitation of trial balance ? 
 
 ## Answer: <br>
 
 ## Limitations of a Trial Balance:
 
-**Doesn’t Catch All Errors**: It won’t spot mistakes like recording an incorrect amount or posting to the wrong account, as long as debits and credits still match.
+Trial balance may balance even 
+when: 
+1. A transaction is not journalized. 
+2. A correct journal entry is not posted.
+3. A journal entry is posted twice.
+4. Incorrect accounts are used in 
+journalizing or posting. 
+5. Offsetting errors are made in 
+recording the amount of a 
+transaction.
 
-**Won’t Detect Omissions**: If a transaction is completely left out of the books, the trial balance will still balance.
-
-**No Guarantee of Accuracy**: A balanced trial balance doesn’t mean all entries are correct; it only shows that debits and credits are equal.
-
-**Fraud May Go Unnoticed**: If someone intentionally manipulates both debit and credit entries, the trial balance can still look correct.
 
 <br>
 
-# What is the accounting information system? An accounting information only apply manually. Do you agree? Explain with Example.  in easy word and short?
+# What is the accounting information system? An accounting information only apply manually. Do you agree? Explain with Example. 
 
 ## Answer: <br>
 
@@ -89,7 +93,7 @@ No, I don’t agree. Accounting information systems can be both manual (handwrit
 Computerized System: Most companies today use accounting software like QuickBooks or SAP to automatically track transactions, generate reports, and reduce errors.
 Using computerized systems is more common now because it saves time and improves accuracy.<br>
 
-# What are common features of computarized accounting packages began recording transection and preparing financial statement.  in easy word and short?
+# What are common features of computarized accounting packages began recording transection and preparing financial statement.  
 
 ## Answer: <br>
 

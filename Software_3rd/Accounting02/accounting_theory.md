@@ -47,7 +47,7 @@ A trial balance is a list of all the accounts in a business, showing their balan
 # "share holders of a public limited company are external users  of Accounting information", Do you agree? why?   in easy word and short?
 
 ## Answer: 
-es, I agree.
+Yes, I agree.
 
 Why?
 Shareholders of a public limited company are considered external users of accounting information because:

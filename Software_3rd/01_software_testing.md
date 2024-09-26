@@ -92,10 +92,11 @@ Automated tools are used for **load testing** (checking if the system can handle
 
 - Unit Testing (White Box)
 - Integration Testing 
-- Funtion Testing(Black Box)
-- Regression Testing 
 - System Testing 
 - Acceptance and Installations Tests
+- Funtion Testing(Black Box)
+- Regression Testing 
+
 
 ## Non-Funtional Test
 

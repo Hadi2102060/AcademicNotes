@@ -9,7 +9,7 @@ Old software, known as legacy software, often cannot keep up with new technology
 
 **For example**, Unix was first made using assembly language, but when the C programming language was created, Unix was re-engineered in C because using assembly was too hard.
 
-<img src="software_Re_engineering.png" height="400" width="400"><br>
+<img src="pic/software_Re_engineering.png" height="400" width="400"><br>
 
 Sometimes, programmers also see that certain parts of software need more maintenance, so those parts may also need re-engineering.<br>
 
@@ -28,7 +28,7 @@ There are few important terms used in Software re-engineering<br>
 
 **Reverse engineering** is the process of understanding how a system works by carefully studying an existing system. It’s like working backwards through the steps of creating software.
 
-<img src="reverse_engineering.png" height="100" width="600"><br>
+<img src="pic/reverse_engineering.png" height="100" width="600"><br>
 
 When we have a system but don’t know how it was made, we look at the code to figure out the design. From the design, we try to understand the system's requirements and how it was supposed to work. So, we start from the code and work backwards to understand the system’s design and details.
 
@@ -46,7 +46,7 @@ Restructuring doesn’t change how the software works but makes it more reliable
 
 Forward engineering is same as software engineering process with only one difference – it is carried out always after reverse engineering.
 
-<img src="forward_engineering.png" height="100" width="600"><br>
+<img src="pic/forward_engineering.png" height="100" width="600"><br>
 
 # Component Reusability
 
@@ -63,7 +63,7 @@ Forward engineering is same as software engineering process with only one differ
 
 There is a whole area called **Component-Based Software Engineering (CBSE)** that focuses on reusing these software components to save time and effort.
 
-<img src="forward_engineering.png" height="100" width="600"><br>
+<img src="pic/forward_engineering.png" height="100" width="600"><br>
 
 # Various levels of Re-Use
 
@@ -78,7 +78,7 @@ Software components provide interfaces, which can be used to establish communica
 
 The reuse process involves two main methods: either keeping the requirements the same and adjusting the components or keeping the components the same and changing the requirements.
 
-<img src="Reuse_process.png" height="400" width="600"><br>
+<img src="pic/Reuse_process.png" height="400" width="600"><br>
 
 - **Requirement Specification** – Define what the software needs to do, both functional (what it should do) and non-functional (how well it should perform). This is done using existing systems and user feedback.
 

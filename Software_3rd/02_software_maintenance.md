@@ -31,7 +31,9 @@ In the life of a software program, different kinds of care are needed depending 
 
 Reports suggest that the cost of maintenance is high. A study on estimating software maintenance found that the cost of maintenance is as high as 67% of the cost of entire  software process cycle.<br>
 
-<img src="cost_maintenance.png" height="300" width="400"><br>
+<img src="pic/cost_maintenance.png" height="300" width="400">
+
+<br>
 
 On an average, the cost of software maintenance is more than 50% of all SDLC phases.<br>
 
@@ -60,7 +62,7 @@ On an average, the cost of software maintenance is more than 50% of all SDLC pha
 
 IEEE provides a framework for sequential maintenance process activities. It can be used in iterative manner and can be extended so that customized items and processes can be included.
 
-<img src="maintenace_activities.png" height="300" width="400"><br>
+<img src="pic/maintenace_activities.png" height="300" width="400"><br>
 
 ## These activities go hand-in-hand with each of the following phase:
 
